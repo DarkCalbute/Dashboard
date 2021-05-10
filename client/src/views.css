@@ -1,0 +1,43 @@
+.ret {
+	transition-duration: 0.5s;
+	fill: green;
+}
+
+.non-ret {
+	transition-duration: 0.5s;
+	fill: black;
+}
+
+.retp {
+	transition-duration: 0.5s;
+	color: green; 
+}
+
+.non-retp {
+	transition-duration: 0.5s;
+	color: white;
+}
+
+.fav {
+	transition-duration: 0.5s;
+	fill: red;
+}
+
+.non-fav {
+	transition-duration: 0.5s;
+	fill: black;
+}
+
+.favp {
+	transition-duration: 0.5s;
+	color: red;
+}
+
+.non-favp {
+	transition-duration: 0.5s;
+	color: white;
+}
+
+.pg {
+	color: grey;
+}
