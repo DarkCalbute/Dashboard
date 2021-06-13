@@ -1,4 +1,4 @@
-# DashboardForRemoClass
+# Dashboard
 Contains tutorials/ressources and the dashboard project
 
 Tuto sur React
